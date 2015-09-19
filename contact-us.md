@@ -40,7 +40,7 @@ permalink: /contact-us/
             <h4 class="heading-primary">The <strong>Head Office</strong></h4>
             <ul class="list list-icons list-icons-style-3 mt-xlg">
                <li><i class="fa fa-map-marker"></i> <strong>Address:</strong> BINWAN DEVELOPMENT SDN. BHD, No 1-08/1-10, Lorong Sintok 3, Taman Permatang Sintok, 13100 Penaga, Pulau Pinang.</li>
-               <li><i class="fa fa-phone"></i> <strong>Phone:</strong> 04-5759598 / 5792598</li>
+               <li><i class="fa fa-phone"></i> <strong>Phone:</strong> (+604) 5759598</li>
                <li><i class="fa fa-fax"></i> <strong>Fax:</strong>04-5793598</li>
                <li><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:inf@binwanglobal.com">inf@binwanglobal.com</a></li>
             </ul>
@@ -50,7 +50,7 @@ permalink: /contact-us/
             <h4 class="heading-primary"><strong>Sales Gallery</strong></h4>
             <ul class="list list-icons list-icons-style-3 mt-xlg">
                <li><i class="fa fa-map-marker"></i> <strong>Address:</strong> BINWAN DEVELOPMENT SDN. BHD, No.48, Jalan Hj.Ahmad Jamil 1, 13300 Tasek Gelugor, Seberang Perai Utara, Pulau Pinang.</li>
-               <li><i class="fa fa-phone"></i> <strong>Phone:</strong> 014-9450360</li>
+               <li><i class="fa fa-phone"></i> <strong>Phone:</strong> (+604) 5759598</li>
                <li><i class="fa fa-fax"></i> <strong>Fax:</strong>04-5793598</li>
                <li><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:inf@binwanglobal.com">inf@binwanglobal.com</a></li>
             </ul>

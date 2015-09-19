@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Binwan
-permalink: /binwan/
+permalink: /Taman-Permatang-SIntuk/
 ---
 
 <article class="boxedcontainer">

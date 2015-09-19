@@ -32,6 +32,7 @@ permalink: /second-home/
                   <a data-hash data-hash-offset="85" href="#second">Why MM2H Is So Special?</a>
                </li>
                <li><a data-hash data-hash-offset="85" href="#third">MM2H Program For Retirees</a></li>
+               <li><a data-hash data-hash-offset="85" href="#fourth">Key Features of our MM2H Package</a></li>
             </ul>
          </aside>
       </div>
@@ -39,9 +40,10 @@ permalink: /second-home/
          <div id="first" class="mb-sm heading heading-primary heading-border heading-bottom-border" style="display:inline-block;">
             <h1>About <strong>MM2H</strong></h1>
          </div>
-         <p>The Malaysia My Second Home Programme offers non Malaysians a <strong class="text-primary">10 year renewable visa</strong> and various other privileges which are explained in this website. So far some 12,000 people have been approved and it is generating a lot of interest. The programme is primarily attracting people who wish to retire in Malaysia or spend extended periods here.
+         <p>Malaysia My Second Home (MM2H) Programme is <strong class="text-primary">promoted by the Government of Malaysia</strong> to allow foreigners who fulfill certain criteria, to stay in Malaysia for as long as possible on a multiple-entry social visit pass.he Social Visit Pass is <strong class="text-primary">initially for a period of ten (10) years</strong>, and is renewable. So far some 12,000 people have been approved and it is generating a lot of interest. The programme is primarily attracting people who wish to retire in Malaysia or spend extended periods here.
          </p>
          <p>Applicants are <strong class="text-primary">allowed to bring along their dependants</strong> (children below 21 years of age, step children, disabled children, and parents, over 60) under their MM2H visa. Older dependent children will have to get a separate visa.</p>
+         <p>The minimum purchase of house price in Penang under MM2H program is <strong class="text-primary">RM1,000,000</strong></p>
          <div id="second" class="mb-sm heading heading-primary heading-border heading-bottom-border" style="display:inline-block;">
             <h1>Why Malaysia  <strong>My Second Home Is So Special?</strong></h1>
          </div>
@@ -72,8 +74,32 @@ permalink: /second-home/
             <li data-appear-animation="fadeInUp" data-appear-animation-delay="1200" class="appear-animation fadeInUp appear-animation-visible" style="animation-delay: 1200ms;"><i class="fa fa-check"></i>Peaceful living with low density, <strong class="text-primary">free of natural disasters</strong> such as tsunami, earth quake, heavy flood, etc.</li>
             <li data-appear-animation="fadeInUp" data-appear-animation-delay="1200" class="appear-animation fadeInUp appear-animation-visible" style="animation-delay: 1200ms;"><i class="fa fa-check"></i>With the MM2H visa, <strong class="text-primary">most bankers are happy to provide you with loan</strong> for your property and car purchase.</li>
          </ul>
+         <div id="fourth" class="mb-sm heading heading-primary heading-border heading-bottom-border" style="display:inline-block;">
+            <h1><strong>Key Features</strong> of our MM2H Package</h1>
+         </div>
+         <p>MM2H program is every ideal for foreigners who like to retire in Malaysia, simply because it is the cheapest form of retirement without the need to put any investment of fixed deposit after approval obtained. Good healthcare system in Malaysia is also one of the main attraction making easy for the retirees.</p>
+         <p>You are qualified if you are aged above 50 with monthly pensions of MYR10,000 from government approved fund or multinational companies, here are some great points for you to understanding why it is good to join MM2H program for retiree category:-</p>
+         <ul class="col-md-8 list list-icons list-primary">
+            <li data-appear-animation="fadeInUp" data-appear-animation-delay="0" class="appear-animation fadeInUp appear-animation-visible"><i class="fa fa-check"></i>Packages includes <strong class="text-primary">house + car+ medical insurance</strong>.</li>
+            <li data-appear-animation="fadeInUp" data-appear-animation-delay="300" class="appear-animation fadeInUp appear-animation-visible" style="animation-delay: 300ms;"><i class="fa fa-check"></i>Package also includes <strong class="text-primary">once 1% deposit paid a flight ticket and lodging for 2pax for 2 nights will be provided in Penang for viewing Site</strong></li>
+         </ul>
+         <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
+<div style="width:198px;border:1px solid #0088CC;margin-bottom:40px;display:inline-block;float:right;"><div style="text-align:center;background-color:#0088CC;width:100%;font-size:13px;font-weight:bold;height:30px;padding-top:2px;"><a href="#" style="color:#FFFFFF;text-decoration:none;">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=EUR&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=1"></script></div>
+<!-- End of Currency Converter Script -->
       </div>
    </div>
 </div>
-
-            
+<section class="page-header custom-product" style="background-image: url({{ site.baseurl }}asset/images/shared/custom-header-bg.jpg);">
+   <div class="container">
+      <div class="row">
+         <div class="col-sm-7">
+            <h1>Introducing our new and fast selling <strong>Binwan</strong> project under MM2H.</h1>
+            <p class="lead">Hurry only limited units are available!!!</p>
+            <a href="#" class="btn btn-default btn-lg mb-xl">Learn More!</a> <span class="arrow hlt" style="top: 10px;"></span>
+         </div>
+         <!-- <div class="col-sm-5">
+            <img class="pull-right responsive" alt="" src="asset/images/shared/binwan-gift.jpg">
+         </div> -->
+      </div>
+   </div>
+</section>

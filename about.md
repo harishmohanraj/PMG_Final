@@ -25,7 +25,7 @@ permalink: /about-us/
    <div class="row">
       <div class="col-md-12">
          <h2 class="word-rotator-title">
-            Piala Mutiara Constructions Sdn. Bhd. (580539-A) <strong>
+            Mutiara Group of Companies <strong>
             </strong>
          </h2>
       </div>
@@ -33,9 +33,9 @@ permalink: /about-us/
    <div class="row">
       <div class="col-md-12">
          <p>
-            Piala Mutiara Constructions Sdn. Bhd. (580539-A). Forms parts of Piala Muthiara Group of companies.  Incorporated on 17th May 2002 for the purpose of venturing into activities of civil construction with emphasis to compliment the property development project carried out by Piala Muthiara Group of companies.
+            Incorporated on 17th May 2002 for the purpose of venturing into activities of civil construction with emphasis to compliment the property development project carried out by Piala Mutiara  Group of companies.
          </p>
-         <p>Piala Mutiara Group of companies has 13 years of track record of sustained growth, customer satisfaction, and innovation. Piala Mutiara Group’s  primary business is development of residential, commercial and retail properties. The company has a unique business model with earnings arising from development and rentals.</p>
+         <p>Piala Mutiara Group of companies has 30 years of track record of sustained growth, customer satisfaction, and innovation. Piala Mutiara Group’s  primary business is development of residential, commercial and retail properties. The company has a unique business model with earnings arising from development and rentals.</p>
          <p>The development business of Piala Mutiara Group includes Homes and Commercial Complexes.The product offering involves a wide range of products including condominiums, duplexes, row houses and apartments of varying sizes. Piala Mutiara Group is credited with introducing and pioneering the revolutionary concept of developing commercial complexes in the vicinity of residential areas. Piala Mutiara Group has successfully launched commercial complexes and is in the process of marking its presence across various locations in Malaysia.</p>
          <p>Piala Mutiara Group’s mission is to build a world-class real estate development company with the highest standards of professionalism, ethics and customer service and to thereby contribute to and benefit from the growth of the Malaysian economy.</p>
       </div>
@@ -48,8 +48,8 @@ permalink: /about-us/
                   <i class="fa fa-star"></i>
                </div>
                <div class="feature-box-info">
-                  <h4 class="heading-primary mb-xs">13 years in business</h4>
-                  <p>Piala Mutiara Group of companies has 13 years of track record of sustained growth, customer satisfaction, and innovation.</p>
+                  <h4 class="heading-primary mb-xs">30 years in business</h4>
+                  <p>Piala Mutiara Group of companies has 30 years of track record of sustained growth, customer satisfaction, and innovation.</p>
                </div>
             </div>
          </div>
@@ -187,7 +187,7 @@ permalink: /about-us/
             </li>
             <li data-appear-animation="fadeInUp">
                <div class="thumb">
-                  <img src="{{ site.baseurl }}/asset/images/companies/fala.jpg" alt="" />
+                  <img class="vertical" src="{{ site.baseurl }}/asset/images/companies/fala.jpg" alt="" />
                </div>
                <div class="featured-box">
                   <div class="box-content">
@@ -198,7 +198,7 @@ permalink: /about-us/
             </li>
             <li data-appear-animation="fadeInUp">
                <div class="thumb">
-                  <img src="{{ site.baseurl }}/asset/images/companies/binan.jpg" alt="" />
+                  <img class="vertical" src="{{ site.baseurl }}/asset/images/companies/binan.jpg" alt="" />
                </div>
                <div class="featured-box">
                   <div class="box-content">
@@ -211,4 +211,3 @@ permalink: /about-us/
       </div>
    </div>
 </div>
-

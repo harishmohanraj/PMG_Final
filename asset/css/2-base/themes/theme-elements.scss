@@ -6100,8 +6100,11 @@ ul {
         img {
           // border-radius: 150px;
           // margin: 7px 8px;
-          width: 145px;
-          height: 145px;
+          width: 200px;
+          height: auto;
+          &.vertical{
+            width: 110px;
+          }
         }
       }
       .featured-box {

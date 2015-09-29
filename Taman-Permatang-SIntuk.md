@@ -19,13 +19,13 @@ permalink: /Taman-Permatang-SIntuk/
                <img src="{{ site.baseurl }}/asset/images/binwan/dummy.png"  alt="3dbg" data-lazyload="{{ site.baseurl }}/asset/images/slider-images/binwan-2.jpg" data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat">
             </li>
             <!-- SLIDE  -->
-            <li data-transition="slideup" data-slotamount="7" data-masterspeed="1000" data-thumb="{{ site.baseurl }}/asset/images/binwan/binwan-1.jpg"  data-saveperformance="on"  data-title="Parallax 3D">
+            <li data-transition="slideup" data-slotamount="7" data-masterspeed="1000" data-thumb="{{ site.baseurl }}/asset/images/slider-images/binwan-1.jpg"  data-saveperformance="on"  data-title="Parallax 3D">
                <!-- MAIN IMAGE -->
                <img src="{{ site.baseurl }}/asset/images/binwan/dummy.png"  alt="3dbg" data-lazyload="{{ site.baseurl }}/asset/images/binwan/invest-in-malaysia.jpg" data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat">
             </li>
             <!-- SLIDE  -->   
             <!-- SLIDE  -->
-            <li data-transition="slideup" data-slotamount="7" data-masterspeed="1000" data-thumb="{{ site.baseurl }}/asset/images/binwan/binwan-1.jpg"  data-saveperformance="on"  data-title="Parallax 3D">
+            <li data-transition="slideup" data-slotamount="7" data-masterspeed="1000" data-thumb="{{ site.baseurl }}/asset/images/slider-images/binwan-1.jpg"  data-saveperformance="on"  data-title="Parallax 3D">
                <!-- MAIN IMAGE -->
                <img src="{{ site.baseurl }}/asset/images/binwan/dummy.png"  alt="3dbg" data-lazyload="{{ site.baseurl }}/asset/images/binwan/bunglo_type_a.jpg" data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat">
             </li>
@@ -77,7 +77,7 @@ permalink: /Taman-Permatang-SIntuk/
       <div class="portfolio-title">
          <div class="row">
             <div class="portfolio-nav-all col-md-1">
-               <a href="{{site.baseUrl}}/portfolio.html" data-tooltip data-original-title="Back to Projects Page"><i class="fa fa-th"></i></a>
+               <a href='{{ site.baseurl }}portfolio' data-tooltip data-original-title="Back to Projects Page"><i class="fa fa-th"></i></a>
             </div>
             <div class="col-md-10 center">
                <h2 class="mb-none heading-primary"><strong>BINWAN</strong></h2>

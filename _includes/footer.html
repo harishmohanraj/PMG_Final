@@ -16,9 +16,9 @@
                   </ul>
                   <div class="social-icons">
                      <ul class="social-icons">
-                        <li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+                        <li class="social-icons-facebook"><a href="https://www.facebook.com/pages/BinwanGlobal/414898402020167" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
                         <li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-                        <li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+                        <li class="social-icons-youtube"><a href="https://www.youtube.com/channel/UCaClbENYH97jw9am0IB6PEA" target="_blank" title="youtube"><i class="fa fa-youtube"></i></a></li>
                      </ul>
                   </div>
                </div>
@@ -140,13 +140,14 @@
                       longitude: initLongitude,
                       zoom: 15
                    };
-
                    var map = $("#googlemaps").gMap(mapSettings);
+                   var mapBinwan = $("#googlemapsMarkers").gMap(mapSettings);
 
                    // Map Center At
                    var mapCenterAt = function(options, e) {
                       e.preventDefault();
                       $("#googlemaps").gMap("centerAt", options);
+                      $("#googlemapsMarkers").gMap("centerAt", options);
                    }
 
                 </script>

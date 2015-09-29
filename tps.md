@@ -27,7 +27,7 @@ permalink: /tps/
       <div class="portfolio-title">
          <div class="row">
             <div class="portfolio-nav-all col-md-1">
-               <a href="{{site.baseUrl}}/portfolio.html" data-tooltip data-original-title="Back to Projects Page"><i class="fa fa-th"></i></a>
+               <a href='{{ site.baseurl }}portfolio' data-tooltip data-original-title="Back to Projects Page"><i class="fa fa-th"></i></a>
             </div>
             <div class="col-md-10 center">
                <h2 class="mb-none heading-primary"><strong>Taman Permatang Sintuk Penaga</strong></h2>

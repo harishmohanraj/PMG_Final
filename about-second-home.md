@@ -83,9 +83,11 @@ permalink: /second-home/
             <li data-appear-animation="fadeInUp" data-appear-animation-delay="0" class="appear-animation fadeInUp appear-animation-visible"><i class="fa fa-check"></i>Packages includes <strong class="text-primary">house + car+ medical insurance</strong>.</li>
             <li data-appear-animation="fadeInUp" data-appear-animation-delay="300" class="appear-animation fadeInUp appear-animation-visible" style="animation-delay: 300ms;"><i class="fa fa-check"></i>Package also includes <strong class="text-primary">once 1% deposit paid a flight ticket and lodging for 2pax for 2 nights will be provided in Penang for viewing Site</strong></li>
          </ul>
+
          <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
 <div style="width:198px;border:1px solid #0088CC;margin-bottom:40px;display:inline-block;float:right;"><div style="text-align:center;background-color:#0088CC;width:100%;font-size:13px;font-weight:bold;height:30px;padding-top:2px;"><a href="#" style="color:#FFFFFF;text-decoration:none;">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=USD&t=EUR&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=1"></script></div>
 <!-- End of Currency Converter Script -->
+<p style="font-size:10px;clear:left;">Terms and Conditions applied.</p>
       </div>
    </div>
 </div>

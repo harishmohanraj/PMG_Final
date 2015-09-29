@@ -21,7 +21,7 @@ permalink: /portfolio/
 <div class="container">
    <!-- <h2><strong>Our</strong> Portfolio</h2>
    <p>The Contracts business at Piala Mutiara Group boasts of an expansive portfolio of worth RM101 million.</p> -->
-   <h3 class="heading-primary">Passion at Work</h3>
+   <h3 class="heading-primary extra-margin">Passion at Work</h3>
    <p>Piala Mutiara Group epitomizes "passion at work" in totality. For us it is not only a catch phrase which sounds just right, rather we all strive to live it daily. It serves as our compass which guides us towards creating world class quality products and workmanship. It guides us to be transparent in all our dealings and adhere to delivery on time, each time.
 Our track record of being the most reliable and trustworthy builder with a repertoire of winning our customer’s heart and properties across Malaysia speaks for itself.
 </p>

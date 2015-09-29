@@ -204,87 +204,100 @@ permalink: /binwan/
    <div class="col-md-12">
       <hr class="tall">
    </div>
-   <div class="col-md-12">
-      <h3 class="heading-primary">Property <strong>Costs</strong></h3>
-      <p>Below table consists of the pricing of the house. </p>
-      <table class="table table-striped">
-         <thead>
-            <tr>
-               <th>
-                  Property Type
-               </th>
-               <th>
-                  No of Units
-               </th>
-               <th>
-                  Land Area
-               </th>
-               <th>
-                  Build - up Area
-               </th>
-               <th>
-                  Price Range
-               </th>
-            </tr>
-         </thead>
-         <tbody>
-            <tr>
-               <td>
-                  Semi Detached 2 Storey Type B
-               </td>
-               <td>
-                  30 Units
-               </td>
-               <td>
-                  215 meter sq feet - 360 meter sq feet
-               </td>
-               <td>
-                  2400 sq feet
-               </td>
-               <td>
-                  RM 460,000.00 - RM 758,000.00
-               </td>
-            </tr>
-            <tr>
-               <td>
-                  Semi Detached 2 Storey Type A
-               </td>
-               <td>
-                  8 Units
-               </td>
-               <td>
-                  317 meter sq feet - 492 meter sq feet
-               </td>
-               <td>
-                  2880 sq feet
-               </td>
-               <td>
-                  RM 490,000.00 - RM 795,000.00
-               </td>
-            </tr>
-            <tr>
-               <td>
-                  Unit Banglow  Type A
-               </td>
-               <td>
-                  1 Unit
-               </td>
-               <td>
-                  Minimun  meter sq feet  Maximun  meter sq feet
-               </td>
-               <td>
-                  37000 sq feet
-               </td>
-               <td>
-                  From RM 850,000.00
-               </td>
-            </tr>
-         </tbody>
-      </table>
-   </div>
 </div>
+</div>
+<section class="section section-primary mt-none">
+         <div class="container">
+           <div class="row">
+             <div class="col-md-12">
+               <h2>Property <strong>Costs</strong></h2>
+               <div class="col-md-10">
+                  <table class="table" style="color:#fff;">
+                     <thead>
+                        <tr>
+                           <th>
+                              Property Type
+                           </th>
+                           <th>
+                              No of Units
+                           </th>
+                           <th>
+                              Land Area
+                           </th>
+                           <th>
+                              Build - up Area
+                           </th>
+                           <th>
+                              Price Range
+                           </th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>
+                              Semi Detached 2 Storey Type B
+                           </td>
+                           <td>
+                              30 Units
+                           </td>
+                           <td>
+                              215 meter sq feet - 360 meter sq feet
+                           </td>
+                           <td>
+                              2400 sq feet
+                           </td>
+                           <td>
+                              RM 460,000.00 - RM 758,000.00
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              Semi Detached 2 Storey Type A
+                           </td>
+                           <td>
+                              8 Units
+                           </td>
+                           <td>
+                              317 meter sq feet - 492 meter sq feet
+                           </td>
+                           <td>
+                              2880 sq feet
+                           </td>
+                           <td>
+                              RM 490,000.00 - RM 795,000.00
+                           </td>
+                        </tr>
+                        <tr>
+                           <td>
+                              Unit Banglow  Type A
+                           </td>
+                           <td>
+                              1 Unit
+                           </td>
+                           <td>
+                              Minimun  meter sq feet  Maximun  meter sq feet
+                           </td>
+                           <td>
+                              37000 sq feet
+                           </td>
+                           <td>
+                              From RM 850,000.00
+                           </td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  </div>
+                  <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
+               <div class="col-md-2" style="border:1px solid #0088CC;">
+                <div style="text-align:center;background-color:#000;width:100%;font-size:13px;font-weight:bold;height:30px;padding-top:2px;"><a href="#" style="color:#FFFFFF;text-decoration:none;">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=MYR&t=INR&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=1"></script></div>
+                  <!-- End of Currency Converter Script -->
+              </div>
+              </div>
+              </div>
+              </div>
+</section>
+<div class="container">
 <div class="col-md-12">
-   <hr class="tall">
    <h3 class="heading-primary">Location and <strong>Accessability</strong></h3>
    <p>Gelugor Heights Located in the Town off Tasek Gelugor and easily accessable to many places. Few of them are listed below</p>
    <div id="googlemapsMarkers" class="google-map mt-none mb-lg"></div>

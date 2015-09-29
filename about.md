@@ -21,6 +21,7 @@ permalink: /about-us/
       </div>
    </div>
 </section>
+
 <div class="container">
    <div class="row">
       <div class="col-md-12">
@@ -35,8 +36,8 @@ permalink: /about-us/
          <p>
             Incorporated on 17th May 2002 for the purpose of venturing into activities of civil construction with emphasis to compliment the property development project carried out by Piala Mutiara  Group of companies.
          </p>
-         <p>Piala Mutiara Group of companies has 30 years of track record of sustained growth, customer satisfaction, and innovation. Piala Mutiara Group’s  primary business is development of residential, commercial and retail properties. The company has a unique business model with earnings arising from development and rentals.</p>
-         <p>The development business of Piala Mutiara Group includes Homes and Commercial Complexes.The product offering involves a wide range of products including condominiums, duplexes, row houses and apartments of varying sizes. Piala Mutiara Group is credited with introducing and pioneering the revolutionary concept of developing commercial complexes in the vicinity of residential areas. Piala Mutiara Group has successfully launched commercial complexes and is in the process of marking its presence across various locations in Malaysia.</p>
+         <p>Mutiara Group of companies has 30 years of track record of sustained growth, customer satisfaction, and innovation. Piala Mutiara Group’s  primary business is development of residential, commercial and retail properties. The company has a unique business model with earnings arising from development and rentals.</p>
+         <p>The development business of Mutiara Group includes Homes and Commercial Complexes.The product offering involves a wide range of products including condominiums, duplexes, row houses and apartments of varying sizes. Mutiara Group is credited with introducing and pioneering the revolutionary concept of developing commercial complexes in the vicinity of residential areas. Mutiara Group has successfully launched commercial complexes and is in the process of marking its presence across various locations in Malaysia.</p>
          <p>Piala Mutiara Group’s mission is to build a world-class real estate development company with the highest standards of professionalism, ethics and customer service and to thereby contribute to and benefit from the growth of the Malaysian economy.</p>
       </div>
    </div>
@@ -49,7 +50,7 @@ permalink: /about-us/
                </div>
                <div class="feature-box-info">
                   <h4 class="heading-primary mb-xs">30 years in business</h4>
-                  <p>Piala Mutiara Group of companies has 30 years of track record of sustained growth, customer satisfaction, and innovation.</p>
+                  <p>Mutiara Group of companies has 30 years of track record of sustained growth, customer satisfaction, and innovation.</p>
                </div>
             </div>
          </div>
@@ -71,7 +72,7 @@ permalink: /about-us/
                </div>
                <div class="feature-box-info">
                   <h4 class="heading-primary mb-xs">Having 6 group of companies</h4>
-                  <p>Today, Piala Mutiara Group Prestige stands as a giant and with aggressive growth plans across the Residential, Commercial, Retail and Hospitality Sectors in Malaysia with 6 group of companies.</p>
+                  <p>Today, Mutiara Group Prestige stands as a giant and with aggressive growth plans across the Residential, Commercial, Retail and Hospitality Sectors in Malaysia with 6 group of companies.</p>
                </div>
             </div>
          </div>
@@ -81,8 +82,8 @@ permalink: /about-us/
                   <i class="fa fa-star"></i>
                </div>
                <div class="feature-box-info">
-                  <h4 class="heading-primary mb-xs">Succesfully completed projects worth RM101 million</h4>
-                  <p>The Contracts business at Piala Mutiara Group boasts of an expansive portfolio of worth RM101 million.</p>
+                  <h4 class="heading-primary mb-xs">Succesfully completed projects worth RM300 million</h4>
+                  <p>The Contracts business at Mutiara Group boasts of an expansive portfolio of worth RM300 million.</p>
                </div>
             </div>
          </div>
@@ -109,14 +110,70 @@ permalink: /about-us/
       <div class="col-md-12">
          <h3 class="heading-primary">Our <strong>Story</strong></h3>
          <p>The company under the leadership of Chief Executive Officer. Mr. Kajendaran Muniandy PKT.PJK. PJM @ Rajen has amongst other projects also gained popularity as specialist in recovery and revival of abandoned projects. His vast exposure of over 20 years has not only gained confidence of the Malaysian government, financial institutions, vendors and suppliers but as well satisfied customers and purchasers. Being an outstanding member of Junior Chamber International, Malaysia, exploring areas of International opportunities- Mr. Kajendaran Muniandy @ Rajen has been conferred JCI Senatorship title. He is also a member of the Real Estate and Housing Developers Association (REHDA).</p>
-         <p>The Piala Mutiara Group of Companies is wholly owned and managed by two shareholding directors with experienced professional personnel on retainer basis. The Directors and members of their Management Operations has vast experience in construction and housing development field. Projects undertaken by the companies are known for their design and price compatibility. Quality finishes are prioritized, while taking into account safety considerations. Through the parent company, PIALA MUTIARA SDN. BHD. and its related or subsidiary companies, the Group of Companies have successfully completed developments and construction projects with a total value of RM101 million/approximately USD27 million.</p>
+         <p>The Mutiara Group of Companies is wholly owned and managed by two shareholding directors with experienced professional personnel on retainer basis. The Directors and members of their Management Operations has vast experience in construction and housing development field. Projects undertaken by the companies are known for their design and price compatibility. Quality finishes are prioritized, while taking into account safety considerations. Through the parent company, PIALA MUTIARA SDN. BHD. and its related or subsidiary companies, the Group of Companies have successfully completed developments and construction projects with a total value of RM101 million/approximately USD27 million.</p>
       </div>
    </div>
-   <div class="row">
-      <div class="col-md-12">
-         <hr class="tall">
-      </div>
-   </div>
+</div>
+<section class="section section-primary mt-none" id="projects">
+         <div class="container">
+           <div class="row">
+             <div class="col-md-12">
+               <h2>Our <strong>Certificates</strong></h2>
+               <div class="owl-carousel mb-none" data-plugin-options='{"items": 4, "margin": 20, "loop": false}'>
+                 <div>
+                   <a href="{{ site.baseurl }}/asset/images/certificates/asal.pdf" target="_blank">
+                     <span class="thumb-info">
+                       <span class="thumb-info-wrapper">
+                         <img src="{{ site.baseurl }}/asset/images/certificates/asal.png" class="img-responsive" alt="">
+                         <span class="thumb-info-title">
+                           <span class="thumb-info-inner">ASAL</span>
+                           <span class="thumb-info-type">Certificate</span>
+                         </span>
+                         <span class="thumb-info-action">
+                           <span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+                         </span>
+                       </span>
+                     </span>
+                   </a>
+                 </div>
+                 <div>
+                   <a href="{{ site.baseurl }}/asset/images/certificates/cidb.pdf" target="_blank">
+                     <span class="thumb-info">
+                       <span class="thumb-info-wrapper">
+                         <img src="{{ site.baseurl }}/asset/images/certificates/cidb.png" class="img-responsive" alt="">
+                         <span class="thumb-info-title">
+                           <span class="thumb-info-inner">CIDB</span>
+                           <span class="thumb-info-type">Certificate</span>
+                         </span>
+                         <span class="thumb-info-action">
+                           <span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+                         </span>
+                       </span>
+                     </span>
+                   </a>
+                 </div>
+                 <div>
+                   <a href="{{ site.baseurl }}/asset/images/certificates/clab.pdf" target="_blank">
+                     <span class="thumb-info">
+                       <span class="thumb-info-wrapper">
+                         <img src="{{ site.baseurl }}/asset/images/certificates/clab.png" class="img-responsive" alt="">
+                         <span class="thumb-info-title">
+                           <span class="thumb-info-inner">CLAB</span>
+                           <span class="thumb-info-type">Certificate</span>
+                         </span>
+                         <span class="thumb-info-action">
+                           <span class="thumb-info-action-icon"><i class="fa fa-link"></i></span>
+                         </span>
+                       </span>
+                     </span>
+                   </a>
+                 </div>
+               </div>
+             </div>
+           </div>
+         </div>
+       </section>
+<div class="container">   
    <div class="row">
       <div class="col-md-12">
          <h3 class="heading-primary mt-xl">Our <strong>Group of Companies</strong></h3>

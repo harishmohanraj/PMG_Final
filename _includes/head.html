@@ -6,8 +6,8 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <!-- Favicon -->
-      <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-      <link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+      <link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon" />
+      <link rel="icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon">
       <!-- Mobile Metas -->
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <!-- Web Fonts  -->

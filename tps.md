@@ -43,28 +43,178 @@ permalink: /tps/
       <div class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}, "mainClass": "mfp-with-zoom", "zoom": {"enabled": true, "duration": 300}}'>
          <div class="owl-carousel stage-margin" data-plugin-options='{"items": 1, "margin": 10, "loop": false, "nav": true, "dots": false, "stagePadding": 40}'>
             <div>
-               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tpi/Taman_Perai_Indah_2.jpg">
-               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tpi/Taman_Perai_Indah_1.jpg" alt="Project Image">
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_2.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_1.jpg" alt="Project Image">
                </a>
             </div>
             <div>
-               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tpi/Taman_Perai_Indah_3.jpg">
-               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tpi/Taman_Perai_Indah_3.jpg" alt="Project Image">
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_3.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_3.jpg" alt="Project Image">
                </a>
             </div>
             <div>
-               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tpi/Taman_Perai_Indah_3.jpg">
-               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tpi/Taman_Perai_Indah_4.jpg" alt="Project Image">
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_3.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_4.jpg" alt="Project Image">
                </a>
             </div>
             <div>
-               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tpi/Taman_Perai_Indah_4.jpg">
-               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tpi/Taman_Perai_Indah_4.jpg" alt="Project Image">
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_4.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_4.jpg" alt="Project Image">
                </a>
             </div>
             <div>
-               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tpi/Taman_Perai_Indah_5.jpg">
-               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tpi/Taman_Perai_Indah_5.jpg" alt="Project Image">
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_5.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_5.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_6.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_6.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_7.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_7.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_8.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_8.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_9.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_9.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_10.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_10.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_11.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_11.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_12.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_12.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_13.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_13.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_14.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_14.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_15.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_15.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_16.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_16.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_17.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_17.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_18.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_18.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_19.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_19.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_20.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_20.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_21.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_21.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_22.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_22.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_23.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_23.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_24.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_24.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_25.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_25.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_26.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_26.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_27.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_27.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_28.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_28.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_29.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_29.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_30.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_30.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_31.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_31.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_32.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_32.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_33.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_33.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_34.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_34.jpg" alt="Project Image">
+               </a>
+            </div>
+            <div>
+               <a class="img-thumbnail img-thumbnail-hover-icon mb-xs mr-xs" href="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_35.jpg">
+               <img class="img-responsive" src="{{ site.baseurl }}/asset/images/tps/Taman_Permatang_Sintuk_35.jpg" alt="Project Image">
                </a>
             </div>
 

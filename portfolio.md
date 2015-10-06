@@ -73,9 +73,9 @@ Our track record of being the most reliable and trustworthy builder with a reper
                 <a href="{{ site.baseurl }}/tps">
                   <span class="thumb-info">
                     <span class="thumb-info-wrapper">
-                      <img src="{{ site.baseurl }}/asset/images/tpi/tpi_thumb.jpg" class="img-responsive" alt="">
+                      <img src="{{ site.baseurl }}/asset/images/tps/tps_thumb.jpg" class="img-responsive" alt="">
                       <span class="thumb-info-title">
-                        <span class="thumb-info-inner">Taman Permatang Sintuk Penaga</span>
+                        <span class="thumb-info-inner">Taman Permatang Sintuk</span>
                         <span class="thumb-info-type">Mixed Development</span>
                       </span>
                       <span class="thumb-info-action">

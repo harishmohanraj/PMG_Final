@@ -290,7 +290,7 @@ permalink: /binwan/
                               Minimun  meter sq feet  Maximun  meter sq feet
                            </td>
                            <td>
-                              37000 sq feet
+                              3700 sq feet
                            </td>
                            <!-- <td>
                               From RM 850,000.00

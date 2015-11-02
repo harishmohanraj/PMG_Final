@@ -12,8 +12,9 @@ permalink: /binwan/
    <div class="tp-banner-container">
       <div class="tp-banner" >
          <ul>
-            <!-- SLIDE  -->
-            <li data-transition="slideup" data-slotamount="7" data-masterspeed="1000" data-thumb="{{ site.baseurl }}/asset/images/slider-images/binwan-2.jpg"  data-saveperformance="on"  data-title="Parallax 3D">
+
+               <!-- SLIDE  -->
+            <li data-transition="slideup" data-slotamount="7" data-masterspeed="1000" data-thumb="{{ site.baseurl }}/asset/images/slider-images/brochuer-Bin-2.jpg"  data-saveperformance="on"  data-title="Parallax 3D">
                <!-- MAIN IMAGE -->
                <img src="{{ site.baseurl }}/asset/images/binwan/dummy.png"  alt="3dbg" data-lazyload="{{ site.baseurl }}/asset/images/slider-images/binwan-2.jpg" data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat">
             </li>
@@ -48,6 +49,17 @@ permalink: /binwan/
                <!-- MAIN IMAGE -->
                <img src="{{ site.baseurl }}/asset/images/binwan/dummy.png"  alt="3dbg" data-lazyload="{{ site.baseurl }}/asset/images/binwan/semi_detached_type_b.jpg" data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat">
             </li>
+            <!-- SLIDE  -->
+            <li data-transition="slideup" data-slotamount="7" data-masterspeed="1000" data-thumb="{{ site.baseurl }}/asset/images/slider-images/binwan-2.jpg"  data-saveperformance="on"  data-title="Parallax 3D">
+               <!-- MAIN IMAGE -->
+               <img src="{{ site.baseurl }}/asset/images/binwan/dummy.png"  alt="3dbg" data-lazyload="{{ site.baseurl }}/asset/images/binwan/brochuer-Bin-1.jpg" data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat">
+            </li>
+               <!-- SLIDE  -->
+               <!-- SLIDE  -->
+               <li data-transition="slideup" data-slotamount="7" data-masterspeed="1000" data-thumb="{{ site.baseurl }}/asset/images/binwan/brochuer-Bin-1.jpg"  data-saveperformance="on"  data-title="Parallax 3D">
+                  <!-- MAIN IMAGE -->
+                  <img src="{{ site.baseurl }}/asset/images/binwan/dummy.png"  alt="3dbg" data-lazyload="{{ site.baseurl }}/asset/images/binwan/brochuer-Bin-2.jpg" data-bgposition="center top" data-bgfit="contain" data-bgrepeat="no-repeat">
+               </li>
          </ul>
          <div class="tp-bannertimer"></div>
       </div>
@@ -79,7 +91,7 @@ permalink: /binwan/
                <a href='{{ site.baseurl }}portfolio' data-tooltip data-original-title="Back to Projects Page"><i class="fa fa-th"></i></a>
             </div>
             <div class="col-md-10 center">
-               <h2 class="mb-none heading-primary"><strong>BINWAN</strong></h2>
+               <h2 class="mb-none heading-primary"><strong>Gelugor Heights</strong></h2>
             </div>
          </div>
       </div>
@@ -185,18 +197,18 @@ permalink: /binwan/
       </div>
    </div>
    <div class="col-md-8">
-      <h4 class="heading-primary">Project <strong>Description</strong></h4>
-      <p class="mt-xlg">Binwan is a luxurious high end project which consists of 40 exclusive low density units spanning across 5 acres of land prime land in Tasek Gelugor which is part of the North Seberang Perai administrative district on the mainland part of Penang.</p>
-      <p class="mt-xlg">We offer wide range of houses to pick and the range includes bare unit, semi bare furnished units and fully furnished units. Also we offer bungalows and semi detached type of houses.</p>
+      <h4 class="heading-primary"><strong>Luxury Living Meets Nature</strong></h4>
+      <p class="mt-xlg">While Tucked away at a serene landscape location, Gelugor Heights is easily accessable by major roads such as the Jalan Gelugor, Jalan Arumugam Pillai and is a stone throws distance to all ammenities including malls, sclools, hospitals and much more. </p>
+      <p class="mt-xlg">Gelugor Heights is a luxurious high end project which consists of 40 exclusive low density units spanning across 5 acres of land prime land in Tasek Gelugor which is part of the North Seberang Perai administrative district on the mainland part of Penang. We offer wide range of houses to pick and the range includes bare unit, semi bare furnished units and fully furnished units. Also we offer bungalows and semi detached type of houses.</p>
       <p class="mt-xlg">Our houses provide the right amount of spaces necessary for your luxuries lifestyle.  Queensbay Mall, Gurney Plaza and Gurney Paragon are located within a distance of 40 Kilometers. Allianze College of Medical Sciences is 10 Kilometers away from our site location. Penang Medical College and Universiti Sains Malaysia are within a reachable 40 Kilometers distance.</p>
       <ul class="portfolio-details">
          <li>
             <p><strong>Features:</strong></p>
             <ul class="list list-inline list-icons">
-               <li><i class="fa fa-check-circle"></i> Fully Furnished </li>
-               <li><i class="fa fa-check-circle"></i> 100% Vaastu compliant</li>
-               <li><i class="fa fa-check-circle"></i> Gated Community</li>
-               <li><i class="fa fa-check-circle"></i> Luxury at its best</li>
+               <li><i class="fa fa-check-circle"></i> AFFORDABLE </li>
+               <li><i class="fa fa-check-circle"></i> COMFORTABLE</li>
+               <li><i class="fa fa-check-circle"></i> CONVENIENT</li>
+               <li><i class="fa fa-check-circle"></i> 100% VAASTU COMPLIANT</li>
             </ul>
          </li>
       </ul>
@@ -210,7 +222,7 @@ permalink: /binwan/
          <div class="container">
            <div class="row">
              <div class="col-md-12">
-               <h2>Property <strong>Costs</strong></h2>
+               <h2>Property <strong>Information</strong></h2>
                <div class="col-md-10">
                   <table class="table" style="color:#fff;">
                      <thead>
@@ -227,9 +239,9 @@ permalink: /binwan/
                            <th>
                               Build - up Area
                            </th>
-                           <th>
+                           <!-- <th>
                               Price Range
-                           </th>
+                           </th> -->
                         </tr>
                      </thead>
                      <tbody>
@@ -246,9 +258,9 @@ permalink: /binwan/
                            <td>
                               2400 sq feet
                            </td>
-                           <td>
+                           <!-- <td>
                               RM 460,000.00 - RM 758,000.00
-                           </td>
+                           </td> -->
                         </tr>
                         <tr>
                            <td>
@@ -263,9 +275,9 @@ permalink: /binwan/
                            <td>
                               2880 sq feet
                            </td>
-                           <td>
+                           <!-- <td>
                               RM 490,000.00 - RM 795,000.00
-                           </td>
+                           </td> -->
                         </tr>
                         <tr>
                            <td>
@@ -280,18 +292,27 @@ permalink: /binwan/
                            <td>
                               37000 sq feet
                            </td>
-                           <td>
+                           <!-- <td>
                               From RM 850,000.00
-                           </td>
+                           </td> -->
                         </tr>
                      </tbody>
                   </table>
                   </div>
                   <!-- Currency Converter Script - EXCHANGERATEWIDGET.COM -->
-               <div class="col-md-2" style="border:1px solid #0088CC;">
-                <div style="text-align:center;background-color:#000;width:100%;font-size:13px;font-weight:bold;height:30px;padding-top:2px;"><a href="#" style="color:#FFFFFF;text-decoration:none;">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=MYR&t=INR&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=1"></script></div>
-                  <!-- End of Currency Converter Script -->
-              </div>
+               <!-- <div class="col-md-2" style="border:1px solid #0088CC;"> -->
+                <!-- <div style="text-align:center;background-color:#000;width:100%;font-size:13px;font-weight:bold;height:30px;padding-top:2px;"><a href="#" style="color:#FFFFFF;text-decoration:none;">Currency Converter</a></div><script type="text/javascript" src="//www.exchangeratewidget.com/converter.php?l=en&f=MYR&t=INR&a=1&d=F0F0F0&n=FFFFFF&o=000000&v=1"></script></div>-->
+                <div class="col-md-2">
+                  <h5 class="text-semibold text-uppercase mt-lg">Specification</h5>
+                  <a class="img-thumbnail lightbox" href="{{ site.baseurl }}/asset/images/binwan/spec.jpg" data-plugin-options='{"type":"image"}'>
+                    <img class="img-responsive" src="{{ site.baseurl }}/asset/images/binwan/spec.jpg" alt="Project Specification  Image">
+                    <span class="zoom">
+                      <i class="fa fa-search"></i>
+                    </span>
+                  </a>
+                </div>
+              <!-- </div> -->
+              <!-- End of Currency Converter Script -->
               </div>
               </div>
               </div>
@@ -299,8 +320,12 @@ permalink: /binwan/
 <div class="container">
 <div class="col-md-12">
    <h3 class="heading-primary">Location and <strong>Accessability</strong></h3>
-   <p>Gelugor Heights Located in the Town off Tasek Gelugor and easily accessable to many places. Few of them are listed below</p>
-   <div id="googlemapsMarkers" class="google-map mt-none mb-lg"></div>
+   <p>Ideal location for families to call a home. Designed with a contemporary facade, Gelugor Heights brings to you both modern and natural living. Located in the Town off Tasek Gelugor and easily accessable to many places. Few of them are listed below</p>
+   <!-- <div id="googlemapsMarkers" class="google-map mt-none mb-lg"></div> -->
+
+   <div class="col-md-12 center mb-xl">
+   <img class="img-responsive" src="{{ site.baseurl }}/asset/images/binwan/location.jpg" alt="Project Specification  Image">
+   </div>
    <div class="col-md-12 center mb-xl">
       <h4 class="heading-primary alternative-font mt-xl pt-xl">Just in <strong class="custom-underline">driving distance!</strong></h4>
    </div>
@@ -329,7 +354,7 @@ permalink: /binwan/
       <li><i class="fa fa-check"></i> 25 Minutes to Bagan Specialist Centre Butterworth.</li>
       <li><i class="fa fa-check"></i> 25 Minutes to Pacific Hypermarket Perai.</li>
       <li><i class="fa fa-check"></i> 35 Minutes to Penang Bridge.</li>
-      <li><i class="fa fa-check"></i> 52 Minutes to Penang International Airport.</li>
+      <li><i class="fa fa-check"></i> 30 Minutes to Penang International Airport.</li>
    </ul>
 </div>
 <div class="col-md-12">
